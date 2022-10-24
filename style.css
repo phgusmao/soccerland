@@ -65,3 +65,25 @@ p{
   font-size: 25px;
   letter-spacing: 5px;
 }
+
+.conteudo-titulo-button{
+  left: 0;
+  top: 45%;
+  width: 100%;
+  text-align: center;
+  backgroud-color: black;
+  margin-bottom: 20px;
+}
+
+.button-link{
+  color: #fff;
+  background-color: #777;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 5px;
+  border-radius: 15px;
+}
+
+.button-link:hover{
+  transform: scale(1.05)
+}
