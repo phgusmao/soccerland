@@ -34,19 +34,19 @@ p{
   background-attachment: fixed;
 }
 .caixa1{
-  background-image: url(../img/pallon.jpg);
+  background-image: url(pallon.jpg);
 }
 
 .caixa2{
-  background-image: url(../img/maxresdefault.jpg);
+  background-image: url(maxresdefault.jpg);
 }
 
 .caixa3{
-  background-image: url(../img/reipele.jpeg);
+  background-image: url(reipele.jpeg);
 }
 
 .caixa4{
-  background-image: url(../img/ojogo.png);
+  background-image: url(ojogo.png);
 }
 
 .conteudo-titulo{
